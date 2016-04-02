@@ -1,0 +1,9 @@
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\bin\Debug\Lotto.exe.config
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\bin\Debug\Lotto.exe
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\bin\Debug\Lotto.pdb
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\obj\Debug\Lotto.csprojResolveAssemblyReference.cache
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\obj\Debug\Lotto.Form1.resources
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\obj\Debug\Lotto.csproj.GenerateResource.Cache
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\obj\Debug\Lotto.exe
+F:\IT EX\C# 개인 프로젝트 모음\LottoNum\Lotto\obj\Debug\Lotto.pdb
